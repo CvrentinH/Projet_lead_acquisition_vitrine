@@ -78,4 +78,6 @@ Le projet repose sur une architecture découplée (Headless) :
 
     GET /audit/{company_id} : Récupère les détails d'un audit spécifique.
 
+---
+
 ## Images
