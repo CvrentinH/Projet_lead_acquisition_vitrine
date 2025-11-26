@@ -9,6 +9,7 @@
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4.12-FF9900?style=for-the-badge&logo=python&logoColor=white)
 
 **LeadScanner** est un outil d’analyse SEO et de prospection automatisée conçu pour identifier rapidement des opportunités commerciales à partir de n’importe quelle URL.
+Ce repository github ne sert que de vitrine et démontrer un de mes projets personnels, LeadScanner est en cours de développement, et privé à des fins lucratives
 
 ---
 
